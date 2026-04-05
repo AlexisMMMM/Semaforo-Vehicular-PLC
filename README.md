@@ -1,9 +1,11 @@
 # Semaforo-Vehicular-PLC
+
 Control de semáforo vehicular con modo emergencia — Siemens S7-1500, TIA Portal, Ladder
 Semáforo Vehicular con Modo Emergencia
 PLC: Siemens S7-1500 (CPU 1511-1 PN)
 Software: TIA Portal V21
 Lenguaje: Ladder (LAD)
+
 Descripción
 Sistema de control de semáforo vehicular programado en PLC Siemens S7-1500. Implementa ciclo automático Verde → Amarillo → Rojo con modo de emergencia que fuerza luz roja inmediatamente al activarse.
 
